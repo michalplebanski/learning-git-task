@@ -4,4 +4,6 @@ shop_list = {
 }
 
 for shop, product in shop_list.items():
-    print(f"Idę do {shop} kupić {product}")
+    shopUpper = shop.capitalize()
+    productUpper = [item.capitalize() for item in product]
+    print(f"Idę do {shopUpper} kupić {productUpper}")
