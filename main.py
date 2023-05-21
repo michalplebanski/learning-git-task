@@ -1,5 +1,5 @@
 shop_list = {
-    "warzywaniak": ["buraki", "seler", "papryka"],
+    "warzywaniak": ["buraki", "seler"],
     "spoywczy": ["masło", "mleko", "chleb"]
 }
 
