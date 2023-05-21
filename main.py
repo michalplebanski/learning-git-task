@@ -10,3 +10,4 @@ for shop, product in shop_list.items():
     productUpper = [item.capitalize() for item in product]
     print(f"Idę do {shopUpper} kupić {productUpper}")
 
+print("Pozdrowienia dla Rafała :)")
