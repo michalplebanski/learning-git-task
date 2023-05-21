@@ -1,6 +1,6 @@
 shop_list = {
     "warzywaniak": ["buraki", "seler", "papryka"],
-    "spoywczy": ["masło", "mleko"]
+    "spoywczy": ["masło", "mleko", "chleb"]
 }
 
 print("Lista zakupów:\n")
